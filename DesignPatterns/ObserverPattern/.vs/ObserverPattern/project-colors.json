@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3627b76c-8b0e-4b75-b702-6c85c92eb764": {
+      "ProjectGuid": "3627b76c-8b0e-4b75-b702-6c85c92eb764",
+      "DisplayName": "ObserverPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

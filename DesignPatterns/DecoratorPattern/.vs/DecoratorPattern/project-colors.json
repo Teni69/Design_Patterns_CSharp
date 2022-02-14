@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04c111d9-74e1-47e8-97f3-ff1b993e3212": {
+      "ProjectGuid": "04c111d9-74e1-47e8-97f3-ff1b993e3212",
+      "DisplayName": "DecoratorPattern",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

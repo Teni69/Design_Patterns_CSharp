@@ -1,0 +1,8 @@
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csproj.AssemblyReference.cache
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.exe
+C:\Users\d3zso\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.pdb

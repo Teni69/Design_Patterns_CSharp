@@ -1,0 +1,8 @@
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\d3zso\source\repos\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb

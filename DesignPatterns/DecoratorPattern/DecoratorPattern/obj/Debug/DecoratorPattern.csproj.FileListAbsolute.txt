@@ -1,0 +1,8 @@
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\d3zso\source\repos\DecoratorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
